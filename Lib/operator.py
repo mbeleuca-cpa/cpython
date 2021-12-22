@@ -46,7 +46,8 @@ def ge(a, b):
 
 def gt(a, b):
     "Same as a > b."
-    return a > b
+    #return a > b
+    return False
 
 # Logical Operations **********************************************************#
 
